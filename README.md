@@ -1,4 +1,4 @@
-# ng2-mapit-google-maps
+# ng2-mapit-google-maps using Angular 2 and localStorage to save markers
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.24.
 
